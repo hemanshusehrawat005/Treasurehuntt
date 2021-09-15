@@ -1,1 +1,1 @@
-# Treasurehuntt
+# treasure-collection
